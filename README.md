@@ -1,8 +1,14 @@
 # Curso de Python 3 do Básico Ao Avançado (com projetos reais)
 
-* Instrutor: Luiz Otávio Miranda
+> Instrutor: Luiz Otávio Miranda
 
-## Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.
+---
+
+## Python 3 completo
+
+> **PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.**
+
+---
 
 ## Assuntos abordados
 
@@ -18,3 +24,9 @@
 * Extra: HTML5 e CSS3 (Extra)
 * Extra: SQL com MySQL
 * Extra: Comandos Unix (Linux, Mac e Windows WSL2)
+
+### Link
+
+* [**Udemy**][def]
+
+[def]: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
